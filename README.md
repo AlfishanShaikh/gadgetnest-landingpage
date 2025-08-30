@@ -34,7 +34,7 @@ This project showcases the latest gadgets and accessories with a clean, user-fri
 ---
 
 ## 📸 Preview
-![Preview](https://raw.githubusercontent.com/AlfishanShaikh/gadgetnest-landingpage/main/assets/preview.png)  
+![Preview](https://github.com/AlfishanShaikh/gadgetnest-landingpage/blob/b732e754439b5eb18effb5fb5c3daf2f425bfc02/banner-image.png)  
 
 ---
 
